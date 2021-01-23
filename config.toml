@@ -1,35 +1,23 @@
-baseURL = "https://meik2333.com/"
-languageCode = "zh-cn"
-title = "MeiK's blog"
+baseURL = "https://github.com/philips413"
+languageCode = "ko-kr"
+title = ":::김도령의 우당탕탕 Lab실:::"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "MeiK"
-  description = "In solitude, where we are least alone."
-  github = "MeiK2333"
-  facebook = "MeiK2333"
-  twitter = "MeiK2333"
-  linkedin = "MeiK2333"
-  instagram = "MeiK2333"
-  tumblr = "MeiK2333"
-  email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
-  keywords = "blog, google analytics"
-  rss = true
-  lastmod = true
+  author = "Philips413"
+  description = "그러므로 너희의 담대함을 버리지 말라. 이것이 큰 상을 얻게 하느니라 -히 10:35"
+  github = "philips413"
+  email = "kimehfud1@naver.com"
+  rss = false
+  lastmod = false
   favicon = "/images/github.png"
-  location = "China"
-
-  [[params.links]]
-    title = "Link"
-    href = "https://github.com/meik2333"
-  [[params.links]]
-    title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+  location = "Korea"
+  avatar  = "/images/kermit.png"
+#   [[params.links]]
+#     title = "Link"
+#     href = "https://github.com/philips413"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
