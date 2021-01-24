@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/philips413.github.io"
 languageCode = "ko-kr"
 title = ":::김도령의 우당탕탕 Lab실:::"
 theme = "github-style"
